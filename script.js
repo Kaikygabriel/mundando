@@ -27,3 +27,10 @@ function inicio(){
         behavior:"smooth",
     })
 }
+function sobre(){
+    window.scroll({
+        top:500,
+      
+        behavior:"smooth",
+    })
+}
